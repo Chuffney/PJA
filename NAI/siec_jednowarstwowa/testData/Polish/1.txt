@@ -1,0 +1,20 @@
+inteligencja wykazywana przez urządzenia sztuczne (w przeciwieństwie do inteligencji naturalnej).
+John McCarthy jest uznawany za autora tego terminu, jednak koncepcje i badania sięgają wcześniejszych lat, a wkład w rozwój SI mieli również inni pionierzy, jak Alan Turing czy Marvin Minsky.
+W potocznym rozumieniu jest ona często używana w kontekście „prawdziwej sztucznej inteligencji”. W informatyce i kognitywistyce oznacza także tworzenie modeli i programów symulujących choć częściowo zachowania inteligentne.
+Sztuczna inteligencja jest także przedmiotem rozważań filozofii (filozofia sztucznej inteligencji) oraz przedmiotem zainteresowania nauk społecznych.
+Sztuczna inteligencja ma dwa podstawowe znaczenia:
+
+jest to hipotetyczna inteligencja realizowana w procesie technicznym, a nie naturalnym;
+jest to nazwa technologii i dziedzina badań naukowych informatyki i kognitywistyki czerpiąca także z osiągnięć psychologii, neurologii, matematyki i filozofii.
+Głównym zadaniem badań nad sztuczną inteligencją w drugim znaczeniu jest konstruowanie maszyn i programów komputerowych zdolnych do realizacji wybranych funkcji umysłu i ludzkich zmysłów, niepoddających się numerycznej algorytmizacji[6]. Problemy takie bywają nazywane AI-trudnymi i zalicza się do nich między innymi:
+
+podejmowanie decyzji w warunkach braku wszystkich danych,
+analiza i synteza języków naturalnych,
+rozumowanie logiczne/racjonalne,
+automatyczne dowodzenie twierdzeń,
+komputerowe gry logiczne, np. szachy, go,
+inteligentne roboty,
+systemy eksperckie i diagnostyczne.
+Sztuczna inteligencja jest powiązana z obszarami uczenia maszynowego, logiki rozmytej, widzenia komputerowego, obliczeń ewolucyjnych, sieci neuronowych, robotyki i sztucznego życia.
+
+Algorytmy sztucznej inteligencji często określane są mianem „czarnej skrzynki”, z powodu trudności w zrozumieniu ich działania, gdy ilość danych i parametrów jest duża. W przypadku, gdy mamy mały model, zrozumienie zasady działania nie sprawia problemu. Jednak gdy ilość danych i parametrów się zwiększa, jest to praktycznie niemożliwe, aby zrozumieć, w jaki sposób te algorytmy podejmują decyzje[7]. Były jednak próby opracowania matematycznej teorii, jak naprawdę działają te algorytmy (a dokładnie sieci neuronowe), z uwzględnieniem modelu GPT[8].

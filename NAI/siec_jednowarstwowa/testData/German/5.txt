@@ -1,0 +1,17 @@
+Zu den wichtigen Bauelementen zählen Widerstand, Kondensator, Transistor, Diode, Spule und die Integrierte Schaltung (kurz IC). Alle diese Bauelemente werden in einer großen Typenvielfalt angeboten.[2] Eine Bauteil-variante ist die SMD-Bauelemente, die durch ihre meistens sehr kompakte Bauform, direkt an der Oberfläche der Leiterplatte angelötet werden.
+
+Man spricht von passiven Bauelementen, wenn primär Widerstände, Kondensatoren und Induktivitäten gemeint sind. Unter den aktiven Bauelementen werden meist alle Arten von integrierten Schaltungen, Halbleiterbauelementen und Elektronenröhren verstanden.
+
+Durch die exakt berechnete Zuordnung der logisch miteinander arbeitenden elektronischen Bauteile auf einer Platine entsteht ein elektronischer Schaltkreis.
+
+Ein selbständig und logisch arbeitender Rechnen-Operator-Chip ist der moderne Prozessor, der nicht nur auf dem Mainboard eines Computers zu finden ist, sondern ein Bestandteil moderner Industrie- und Fahrzeugtechnik ist.
+1873 entdeckte Willoughby Smith, dass Selen in der Lage ist, bei Licht zu leiten (Photoeffekt).[1] Auf diese Erkenntnis hin entdeckte Karl Ferdinand Braun 1874 den Gleichrichtereffekt. Stoney und Helmholtz prägten den Begriff des Elektrons als Träger des elektrischen Stroms. 1883 erhielt Thomas Alva Edison ein Patent auf einen Gleichspannungsregler, der auf der Glühemission (dem Edison-Richardson-Effekt) beruhte, einer Voraussetzung für alle Vakuumröhren. 1897 begann die Entwicklung der Braunschen Röhre durch Karl Ferdinand Braun. Im Jahre 1899 begann daraufhin die Entwicklung der Spitzendiode. 1904 erlangte John Ambrose Fleming ein Patent auf eine Vakuumdiode.
+
+Siehe auch: Geschichte der Elektronenröhre
+Zu Beginn des 20. Jahrhunderts war die Entwicklung von Elektronenröhren bereits fortgeschritten. Die ersten Elektronenröhren wurden entwickelt und bereits in elektrischen Schaltungen genutzt. Mit der Triode stand zum ersten Mal ein brauchbares Bauelement zum Aufbau von Verstärkern zur Verfügung. Dadurch wurden Erfindungen wie Rundfunk, Fernsehen und Radar möglich.
+
+Im Jahr 1948 wurde der erste Transistor vorgestellt. Transistoren können wie Röhren als Verstärker, elektronische Schalter oder als Oszillator eingesetzt werden. Jedoch lassen sich Transistoren im Gegensatz zu Vakuumröhren, die sehr viel Raum und elektrische Leistung brauchen, sehr klein fertigen, denn sie basieren auf Halbleitertechnik, wodurch sehr viel höhere Stromdichten möglich sind.
+
+In den 1960er Jahren gelang die Fertigung von kompletten, aus mehreren Transistoren und weiteren Bauelementen bestehenden Schaltungen auf einem einzigen Siliziumkristall. Die dadurch eingeleitete Technik der integrierten Schaltkreise (kurz IC von engl. integrated circuit) hat seitdem zu einer stetigen Miniaturisierung geführt. Heute ist die Halbleiterelektronik der wichtigste Zweig der Elektronik.
+
+Als Schlüsseltechnologie für die Zukunft wird zuweilen die Polytronik gesehen. Sie bezeichnet die Zusammenführung kunststoffbasierter Systemfunktionen zu der Vision „intelligentes Plastik“.

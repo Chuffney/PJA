@@ -1,0 +1,12 @@
+De primære egenskaber ved synligt lys er intensitet, udbredelsesretning, frekvens eller bølgelængde og polarisering.
+
+Lys har såvel bølgeegenskaber som partikelegenskaber. Bølgeegenskaberne viser sig bl.a. i situationer hvor lyset afbøjes, f.eks. i et optisk gitter. Afbøjningen i et gitter beskrives bedst ved at tænke på lys som bølger, der kan interferere. Partikelegenskaberne viser sig bl.a. i situationer hvor lys absorberes eller emitteres, f.eks. ved vekselvirkning med et atom, et molekyle eller et faststof. Vekselvirkninger mellem lys og stof beskrives bedst ved at tænke på lys som partikler, såkaldte fotoner.
+
+
+Skematisk tegning af Fizeaus opstilling til bestemmelse af lysets hastighed.
+Hastighed
+Uddybende Uddybende artikel: Lysets hastighed
+Elektromagnetisk stråling, og dermed også synlig lys, udbreder sig med en endelig hastighed. Alle iagttagere i jævn indbyrdes bevægelse vil ifølge den specielle relativitetsteori måle den samme hastighed, der i vakuum er 299.792.458 meter per sekund.
+
+I 1676 opdagede Ole Rømer, at lyset "tøvede" ved observationer over en lang periode af Jupiter og dens måne Io.[9] Franskmanden Fizeau (1819 – 1896) udførte som en af de første en måling af lysets hastighed i 1849. Han tog en kraftig og meget smal lysstråle, som sendtes ind mellem to tænder på et tandhjul og reflekteredes fra et spejl næsten 9 km væk. Spejlet anbragtes således, at lysstrålen reflekteredes præcist tilbage modsat sin oprindelige retning og ramte mellem de samme to tænder på tandhjulet. Efterfølgende bragtes tandhjulet til at rotere. Da strålen med jævne mellemrum blev afbrudt af hjulets tænder, blev lyset sendt af sted i korte glimt. Et ekstra halvgennemsigtigt spejl muliggjorde at se de tilbagekastede lysglimt. På et tidspunkt roterede tandhjulet så hurtigt, at hvert lysglimt ikke nåede at komme tilbage til samme hul i tandhjulet, men bremsedes af den efterfølgende tand, så der ikke længere kunne ses tilbagekastet lys mellem tænderne. Ud fra tandhjulets omdrejningsfrekvens og antallet af tænder samt lysets tilbagelagte afstand kunne lysets hastighed bestemmes.
+[10] Vi ved dog nu, at den afveg cirka 5 procent fra den faktiske værdi, og allerede i 1728 havde James Bradley bestemt lysets hastighed med 1 procents nøjagtighed ved hjælp af aberrationen af lyset fra stjernerne. Lysets hastighed blev dog bestemt nøjagtigere året efter i 1850 af Léon Foucault efter en lignende metode.

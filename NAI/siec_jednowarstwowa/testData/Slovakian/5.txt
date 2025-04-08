@@ -1,0 +1,8 @@
+V súčasnosti sa jednotková číselná sústava používa pre jej nevýhody len ojedinele a aj to len pri takých činnostiach, ktoré pracujú len s číslami najviac v rádoch desiatok. Najčastejšie sa s ňou dá stretnúť
+
+V pohostinstvách, kde sa na papierových lístkoch značí pomocou čiarok počet skonzumovaných nápojov alebo pochutín, pre potrebu ich neskoršieho zúčtovania.
+V štatistických prieskumoch, kde sa nepredpokladá práca s veľkými číslami. Napríklad počet návštevníkov nejakej komornejšej kultúrnej akcie, alebo počet automobilov podľa druhov, ktoré prešli nejakou obcou a pod.
+Zaznamenávanie počtu úkonov pri nejakom výrobnom procese alebo počet hubárskych úlovkov podľa druhu húb a pod.
+Veľkou nevýhodou je pri väčšom počte záznamov skutočnosť, že je takýto zápis neprehľadný a náročný na konečné spočítanie. Preto sa pri tejto tzv. čiarkovej metóde používajú mnohé pomôcky spočívajúce vo zvýrazňovaní určitého počtu znakov alebo jeho nahradzovanie iným, ľahšie čitateľným znakom. Napríklad
+Jednotková sústava je najstaršia číselná sústava, ktorú ľudstvo pozná a z nej sa postupne vyvinuli ostatné nepozičné a následne pozičné číselné sústavy. Z tohto dôvodu sa niekedy v žargónoch nazýva aj číselnou sústavou doby kamennej.[2]
+ Spôsob zapisovania čísel v tejto číselnej sústave spočíva v opakovaní znaku dovtedy kým nie je dosiahnutý potrebný počet znakov pre vyjadrenie daného čísla. Napríklad

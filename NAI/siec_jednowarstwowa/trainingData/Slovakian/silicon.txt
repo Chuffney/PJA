@@ -1,0 +1,15 @@
+Pretože kremík a uhlík sa v periodickej tabuľke prvkov nachádzajú v jednej skupine pod sebou, dalo by sa usudzovať, že kremík bude rovnako ako uhlík vytvárať nesmierne pestrú škálu zlúčenín analogických organickým látkam. V staršej vedecko-fantastickej literatúre sme sa mohli pomerne často stretnúť so živými bytosťami, ktoré na rozdiel od nás majú telo zložené zo silikónových molekúl, kúpu sa v kvapalnom čpavku, dýchajú sírne výpary apod. Skutočnosť je však ďaleko prozaickejšia.
+
+Napriek tomu, že kremík dokáže vytvárať celý rad analogických zlúčenín k uhľovodíkom, nemôže ich množstvo nikdy dosiahnuť pestrosť organickej chémie. Dôvodom je predovšetkým fakt, že atómy kremíka nie sú schopné vytvárať dvojitú väzbu Si=Si a pochopiteľné ani väzbu trojitú. Ďalší významný dôvod je sila väzby medzi dvoma atómami kremíka, ktorá je približne polovičná, ako pri väzbe C-C. V dôsledku toho sú molekuly s vysokým počtom väzieb Si-Si nestále a veľmi ľahko sa rozkladajú. Napriek tomu však existujú skupiny látok, ktoré sú analógy (?) medzi organickými zlúčeninami a podobnými zlúčeninami kremíka:
+
+Silány
+Silány sú bezfarebné látky so zložením SinH2n+2. Prvé dva silány sú plynné, od trisilánu Si3H8 kvapalné. Všetky sú mimoriadne reaktívne a na vzduchu samozápalné, reakciou s kyslíkom vzniká oxid kremičitý a voda. Vo vode tiež rýchlo hydrolyzujú, pričom sa uvoľňuje plynný vodík a vzniká gél kyseliny kremičitej.
+
+Silány sú veľmi silné redukčné činidlá. S halogénmi reagujú explozívne, za istých podmienok (prítomnosť AlCl3 a vhodná teplota) je možné pripraviť molekuly s jedným atómom halogénu SiH3Cl až SiHCl3 a podobne.
+
+Silány sa uplatňujú predovšetkým ako počiatočné zlúčeniny pre výrobu zložitejších kremíkatých látok, napr. pre výrobu čistého polovodičového kremíka.
+
+Siloxány (silikóny)
+Siloxány sú zlúčeniny, ktoré obsahujú v molekule väzbu Si-O-Si. Táto chemická skupina je veľmi stabilná a môže byť preto pripravený prakticky nekonečný reťazec so zložením –(O-Si-O-Si-O)-, zostávajúce dve voľné väzby kremíkového atómu môžu byť obsadené napr. skupinami –HO alebo najčastejšie organickými ligandami ako -CH3a ďalšími. Najbežnejšie používané zlúčeniny tohto typu sú polydimetylsiloxány a majú vzorec: (CH3)3SiO[SiO(CH3)2]nSi(CH3)3.
+
+Uvedené látky sú pritom za bežných podmienok úplne stabilné a nepodliehajú rozkladu ani v prítomnosti kyslíka alebo vody. Podľa počtu siloxanových skupín a ich ligandov môžu byť výslednými produktmi ako kvapalné, tak aj pevné látky. Ich ďalšími vlastnosťami sú hydrofóbia (odpudzujú vodu) a prakticky úplná neškodnosť pre živé organizmy.

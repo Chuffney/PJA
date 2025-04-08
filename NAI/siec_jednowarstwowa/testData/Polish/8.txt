@@ -1,0 +1,39 @@
+Atom, cząsteczka, wiązanie chemiczne
+
+Symboliczne przedstawienie struktury atomu helu
+Atom jest współcześnie podstawowym pojęciem w chemii. Składa się on z jądra atomowego i chmury elektronów. O ile jądro jest domeną fizyki jądrowej, o tyle zachowanie i natura chmury elektronowej jest domeną chemii, gdyż decyduje o zdolności atomów do łączenia się w większe obiekty, zwane cząsteczkami. Cząsteczka bowiem to grupa atomów, które są trwale powiązane przez wymianę elektronów z powłoki walencyjnej, czyli najbardziej odległej od jądra. Na skutek tej wymiany powstają trwałe wiązania chemiczne.
+
+Pierwiastek, indywiduum chemiczne, mieszaniny
+Według klasycznej definicji pierwiastek chemiczny to jest substancja, której metodami chemicznymi nie da się dalej rozłożyć. Koncepcja pierwiastka wywodzi się wprost z alchemii. Podstawowym dokonaniem Roberta Boyle’a było jednak zerwanie z alchemiczną tradycją, w ramach której wierzono, że tych pierwiastków jest od 3 do 7, przy czym ich lista powstawała z rozważań teoretycznych, a nie na podstawie danych eksperymentalnych. Współcześnie wiadomo, że pierwiastków jest ponad 100 i że poszczególne pierwiastki są tworzone przez atomy, które mają w jądrze jednakową liczbę protonów.
+
+Indywiduum chemiczne to z kolei substancja, w której występuje jeden rodzaj molekuł. Jeśli molekuły te są nienaładowanymi cząsteczkami, nieposiadającymi niesparowanych elektronów, to wówczas indywidua te nazywa się związkami chemicznymi. Związek chemiczny to zatem substancja, która składa się z jednego rodzaju cząsteczek.
+
+Inne indywidua chemiczne to:
+
+jony – czyli atomy i cząsteczki mające niezerowy wypadkowy ładunek elektryczny,
+rodniki – czyli atomy i cząsteczki mające przynajmniej jeden niesparowany elektron (a zatem niezerowy spin).
+Oprócz czystych pierwiastków i związków chemicznych w naturze występują ich różnorakie mieszaniny. W zależności od tego, czy mieszaniny te można rozdzielić mechanicznie, czy też wymaga to bardziej złożonych operacji fizyczno-chemicznych, rozróżnia się:
+
+roztwory,
+mieszaniny niejednorodne, takie jak koloidy, zole, żele, pasty, piany, zawiesiny i inne.
+Reakcje chemiczne
+
+Bromowanie alkenów
+ Osobny artykuł: Reakcja chemiczna.
+Reakcja chemiczna to proces powstawania lub zrywania wiązań chemicznych, na skutek których powstają lub rozpadają się cząsteczki. Zwykle reakcje chemiczne mają dość złożony przebieg, tzn. są sumą wielu następujących po sobie lub odbywających się jednocześnie aktów zrywania i powstawania wiązań. Opisy sumarycznego przebiegu reakcji nazywają się równaniami, natomiast pełny opis wszystkich aktów zrywania i powstawania wiązań chemicznych jest nazywany jej mechanizmem.
+
+Wzory chemiczne
+
+Wzór strukturalny cząsteczki LSD
+ Osobny artykuł: Symbolika chemiczna.
+Strukturę cząsteczek i innych indywiduów chemicznych zapisuje się w postaci specjalnych wzorów, które tworzy się stosując specjalną symbolikę. W znacznym uproszczeniu na symbolikę tę składają się:
+
+symbole pierwiastków – przyjmujące postać jedno-, dwu- lub trzyliterowych skrótów ich nazw – reprezentujące atomy występujące w cząsteczkach,
+symbole wiązań chemicznych – przyjmujące postać kresek, łączących symbole pierwiastków – pojedyncza kreska oznacza uwspólnioną parę elektronową.
+Wzory poszczególnych cząsteczek chemicznych można zestawiać w równania, które w poglądowy sposób przedstawiają przebieg reakcji chemicznych. Konwencja pisania równań polega na umieszczaniu substratów po lewej, produktów po prawej stronie równania i łączenie ich różnego rodzaju strzałkami symbolizującymi rodzaj danej reakcji.
+
+Mole, stężenia i stechiometria
+ Osobny artykuł: Stechiometria.
+Podstawową jednostką stosowaną w chemii jest mol. Jest to jednostka liczności materii, czyli stosunku liczby cząstek znajdujących się w określonej masie lub objętości danej substancji chemicznej przyrównanej do liczby wynoszącej 6,02214076×1023[10][b] Mol razem z równaniami reakcji chemicznych stanowi podstawę obliczeń stechiometrycznych, których zasady umożliwiają dokładne ustalenie, jaka masa lub objętość jednego związku może przereagować z drugim związkiem. Teoretyczną podstawą tych obliczeń jest prawo działania mas oraz koncepcja współczynnika stechiometrycznego.
+
+Koncepcja stężenia, rozumianego jako molowy lub procentowy udział związków chemicznych w mieszaninie, umożliwia z kolei dokonywanie analogicznych obliczeń ilości reagujących substancji, nawet gdy nie są one jednorodne.
