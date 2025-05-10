@@ -1,0 +1,12 @@
+MPP 5
+Termin oddania: 1 tydzień.
+
+Przeprowadzić algorytm grupowania k-means dla irysów.
+
+Podczas grupowania ignorujemy atrybut decyzyjny.
+
+Wczytujemy od użytkownika wartość k.
+
+Program ma wyświetlać:
+	przy każdej iteracji: sumę kwadratów odległości od "swoich" centroidów
+	na końcu: składy klastrów wraz z ich entropią ze względu na gatunek.
